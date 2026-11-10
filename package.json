@@ -1,0 +1,11 @@
+{
+  "name": "bowman-construction",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bowman Construction website",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "seo:prepare": "node scripts/prepare-seo.mjs"
+  }
+}

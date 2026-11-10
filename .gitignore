@@ -1,0 +1,20 @@
+# Dependencies And Generated Files
+node_modules/
+dist/
+output/
+previews/
+.taste-skill/
+
+# Local Configuration And Credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+Thumbs.db
+
+# Local Editor And Hosting State
+.openai/
+.sites-*/
+*.pen
