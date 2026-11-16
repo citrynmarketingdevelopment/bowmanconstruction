@@ -18,3 +18,9 @@ Thumbs.db
 .openai/
 .sites-*/
 *.pen
+
+# Next.js
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
